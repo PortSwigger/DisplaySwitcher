@@ -1,0 +1,13 @@
+Uuid: c537b591acd04578840d48b56e069214
+ExtensionType: 1
+Name: Display Switcher
+RepoName: display-switcher
+ScreenVersion: 1.0.1
+SerialVersion: 3
+MinPlatformVersion: 15
+ProOnly: False
+Author: Karl S, White Oak Security
+ShortDescription: Adds a new context menu item in Burp Suite to switch between defined Display Settings Profiles.
+EntryPoint: build/libs/display-switcher-1.0.1.jar
+BuildCommand: ./gradlew jar
+SupportedProducts: Pro, Community
